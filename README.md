@@ -41,7 +41,7 @@
 <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" width="40" />
 </a>
 <a href="https://www.djangoproject.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" height="40" width="40" />
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="40" width="40" />
 </a>
 <a href="https://flask.palletsprojects.com/" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" height="40" width="40" />
