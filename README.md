@@ -46,5 +46,5 @@
 <a href="https://flask.palletsprojects.com/" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" height="40" width="40" />
 </a>
-
+<br>
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="300" width="300">
